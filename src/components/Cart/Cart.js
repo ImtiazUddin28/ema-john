@@ -19,7 +19,7 @@ const Cart = ({cart}) => {
             <h3>Order Summary </h3>
             <p>Selected Items: {quantity}</p>
             <p>Total Price: ${total} </p>
-            <p>Total Shipping Charge: ${shipping} </p>
+            <p>Total Shipping Charges: ${shipping} </p>
             <p>Tax: {tax}</p>
             <h4>Grand Total: {grandTotal} </h4>
 
